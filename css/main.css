@@ -1,0 +1,64 @@
+#filmTitle{
+    text-align: center;
+    color: burlywood;
+}
+
+body{
+    background-image: url(/images/wakanda.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+#showingTitle{
+    text-align: center;
+    color: burlywood;
+
+}
+#headTitle{
+    text-align: center;
+    color: burlywood;
+}
+#mviedet{
+    list-style: none;
+}
+/* #runtime{
+    background-color: rgb(0, 92, 0);
+} */
+#poster{
+    width: 680px;
+    height: 610px;
+    color: burlywood;
+}
+
+.test{
+    margin: 20px;
+    border-radius: 8px;
+}
+
+#headTitle {
+    font-family: 'Zen Dots', cursive;
+    color: blueviolet;
+}
+#descript{
+    font-family: 'Caveat', cursive;
+}
+#movieDescription{
+    text-align: center;
+    background-color: burlywood;
+}
+#mvie {
+    background-color: blueviolet;
+}
+
+.sinema:hover {
+    cursor: pointer;
+    padding: 20px;
+    background-color: aqua;
+
+}
+
+#listCont {
+    background-color: darkmagenta;
+}
